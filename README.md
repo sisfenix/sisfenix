@@ -2,7 +2,7 @@
 
 Sou o **Alan Lopes**, moro em São Paulo/SP.
 
-Sou Engenheiro Eletricista e Tecnólogo em Rede de Computadores pela [Estácio](https://www.estacio.br/), pós-graduado em Gestão e Tecnologia em Segurança da Informação pela [Faculdade Impacta](https://www.impacta.edu.br/), pós-graduando em Engenharia de Segurança do Trabalho e em Engenharia e Gerenciamento de Manutenção pela [EducaMais](https://www.faculdadeeducamais.edu.br/).
+Sou Engenheiro Eletricista e Tecnólogo em Rede de Computadores pela [Estácio](https://www.estacio.br/), Engenheiro de Segurança do Trabalho pela [EducaMais](https://www.faculdadeeducamais.edu.br/), pós-graduado em Gestão e Tecnologia em Segurança da Informação pela [Faculdade Impacta](https://www.impacta.edu.br/) e pós-graduado em Engenharia e Gerenciamento de Manutenção pela [EducaMais](https://www.faculdadeeducamais.edu.br/).
 
 ## Minhas atividades no Github
 <div align="center">
