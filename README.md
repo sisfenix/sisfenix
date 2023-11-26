@@ -2,7 +2,7 @@
 
 Sou o **Alan Lopes**, moro em São Paulo/SP.
 
-Sou Engenheiro Eletricista e Tecnólogo em Rede de Computadores pela [Estácio](https://www.estacio.br/), Engenheiro de Segurança do Trabalho pela [EducaMais](https://www.faculdadeeducamais.edu.br/), pós-graduado em Gestão e Tecnologia em Segurança da Informação pela [Faculdade Impacta](https://www.impacta.edu.br/) e pós-graduado em Engenharia e Gerenciamento de Manutenção pela [EducaMais](https://www.faculdadeeducamais.edu.br/).
+Sou Engenheiro Eletricista, Tecnólogo em Rede de Computadores pela [Estácio](https://www.estacio.br/) e Engenheiro de Segurança do Trabalho pela [EducaMais](https://www.faculdadeeducamais.edu.br/), pós-graduado em Gestão e Tecnologia em Segurança da Informação pela [Faculdade Impacta](https://www.impacta.edu.br/) e pós-graduado em Engenharia e Gerenciamento de Manutenção pela [EducaMais](https://www.faculdadeeducamais.edu.br/).
 
 ## Minhas atividades no Github (Public)
 <div align="center">
@@ -49,3 +49,4 @@ Sou Engenheiro Eletricista e Tecnólogo em Rede de Computadores pela [Estácio](
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="40" height="40"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
