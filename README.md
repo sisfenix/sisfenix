@@ -4,7 +4,7 @@ Sou o **Alan Lopes**, moro em São Paulo/SP.
 
 Sou Engenheiro Eletricista e Tecnólogo em Rede de Computadores pela [Estácio](https://www.estacio.br/), Engenheiro de Segurança do Trabalho pela [EducaMais](https://www.faculdadeeducamais.edu.br/), pós-graduado em Gestão e Tecnologia em Segurança da Informação pela [Faculdade Impacta](https://www.impacta.edu.br/) e pós-graduado em Engenharia e Gerenciamento de Manutenção pela [EducaMais](https://www.faculdadeeducamais.edu.br/).
 
-## Minhas atividades no Github
+## Minhas atividades no Github (Public)
 <div align="center">
   <a href="https://github.com/sisfenix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sisfenix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
